@@ -1,0 +1,15 @@
+img {
+    display: block;
+    max-width: 50%;
+    height: auto;
+  }
+
+ table {
+      border: black;
+      margin: 20px;
+  }
+
+body {
+    background-color: rgb(7, 7, 68);
+    color: white;
+}
